@@ -1,6 +1,6 @@
 <div align="left">
 
-# <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/FlowsealObhod">Flowseal</a><a href="https://github.com/FlowsealObhod/Zapret-Flowseal-obhod">/Zapret-Flowseal-obho</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
+# <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/FlowsealObhod">Flowseal</a><a href="https://github.com/FlowsealObhod/Zapret-Flowseal-obhod">/Zapret-Flowseal-obhod</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
 
 >
 > ### ФЕЙКИ
